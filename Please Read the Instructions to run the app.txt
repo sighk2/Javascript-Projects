@@ -1,0 +1,23 @@
+Setting up the database:
+
+1. Create a database called simple_image_upload in php myadmin.
+2. Import the sql file that is provided in the project in that database.
+3. Put username and password for the mysql user in the env file.(If you change the database name then put that in as well)
+4. GO to project folder and run npm  start
+
+Extracting the project files and running the app :
+
+1.Take simple-running and extract it somewhere on the pc
+2. Follow the steps for setting up the database
+3. Now go to the folder location through command prompt/ node cmd
+4. Run npm start
+5. Open localhost:3000
+
+
+The main code is contained in the following files - 
+1. app.js
+2. MainController.js
+3. Passport.js
+4. Index.js
+
+Views are contained in the view folder.
